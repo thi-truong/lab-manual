@@ -1,53 +1,11 @@
-# UMass Dartmouth, SMAST, and Fay Lab Resources {#umassd-resources}
+# Datawrapper {#umassd-resources}
 
-## General information about UMass Dartmouth and SMAST
+## Symbol Maps
 
-The SMAST [directory](https://www.umassd.edu/smast/about/directory/) lists all faculty and staff across both departments (DEOS & DFO). This is not updated frequently but may help you in locating a specific person and their contact information.
+<div style="min-height:798px" id="datawrapper-vis-PV8QJ"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/PV8QJ/embed.js" charset="utf-8" data-target="#datawrapper-vis-PV8QJ"></script><noscript><img src="https://datawrapper.dwcdn.net/PV8QJ/full.png" alt="Map of the contiguous U.S., Alaska, and Hawaii showing various red circles of varying sizes, overlapping and distributed across most states. Small circles indicate $50,000-$100,000 budget, while the largest circles indicate budget over $3 million. Largest circles occur closest to Berkeley, Irvine, Austin, and New York.  A minor amount of unfilled circles are seen, indicating a number of grants that were not previously mentioned in the 2024 report. " /></noscript></div>
 
-If you need help with a specific task, there are some staff members that are more appropriate to contact. Please use the link below to locate someone to help you. 
-- [link to latest org chart]
+### Locator Maps
 
-[General list of resources for SMAST staff and students](https://my.umassd.edu/group/smast-occupants) via MyUMassD. This contains program policies, links, and forms for various academic and administrative procedures.  
+#### Seattle
 
-### University Codes of Conduct
-
-- [Student conduct and dispute resolution](https://www.umassd.edu/studentaffairs/departments/student-conduct-and-dispute-resolution/)
-- [SMAST's code of conduct and diversity statement](https://www.umassd.edu/media/umassdartmouth/smast/lab-pdf-files/SMAST-Code-of-Conduct-and-Diversity-Statement.pdf).
-
-### For Grad Students
-
-- [Official SMAST webpage for current and incoming students](https://www.umassd.edu/smast/admissions--aid/current-students/). This has information on orientation materials, forms, scholarships/fellowships/assistantships, and academics.
-
-### For Employees
-
-- [Employee resources](https://www.umassd.edu/hr/employee-resources/)
-- [Human Resources](https://www.umassd.edu/hr/)
-
-##  Fay Lab Resources
-
-* [Fay Lab website](http://www.smast.umassd.edu/lab_fay/)
-* Fay Lab Google Drive & Calendar - ask Gavin for a link to access & collaborate!
-    - Lab email -> thefaylab@gmail.com
-* [Fay Lab GitHub account](https://github.com/thefaylab)
-    - Lab-chat repository houses an Issues list that retains institutional and Fay Lab knowledge. It's private so be sure to ask Gavin for access!
-* [Our current team](http://www.smast.umassd.edu/lab_fay/?page_id=10) 
-* [Lab publications](http://www.smast.umassd.edu/lab_fay/?page_id=15)
-* Professional development materials: collection of issues in the [lab-chat](https://github.com/thefaylab/lab-chat)
-* [Travel Procedures](https://github.com/thefaylab/lab-chat/issues/24)
-
-### Weekly Lab Meetings
-- Every Monday from 12:30 - 2:00 PM ET
-- [Lab Meeting Schedule](https://github.com/thefaylab/lab-manual/wiki/Lab-Meeting-Schedule)
-- On occasion, this time is used for [Quantfish woRkshops](https://twitter.com/gavin_fay/status/1247634965782806529?lang=en) where lab members or invited guests come to teach the group and larger community a quantative skill (could be an introduction to a new R package, new statistical tool, etc).
-
-The below are not currently in session, but are examples of regular activities we have run in the past.  
-
-### Shut Up and Write
-- Every Thursday from 3 - 4:30 PM EST (besides the 1st Thursday of every month which is reserved for Hacky Hour -> see below!)
-- Pomodoro-style workflow. Three, 20-minute sessions interspersed by ~5 minute breaks.
-
-### Hacky Hours/Southcoast useR group
-- 1st Thursday of every month
-- Mixed bag including working through tidy tuesdays, informal feedback presentations, etc.
-
-![](img/faylab-carousel_2024-10-28.png)
+<iframe title="Aspire Immersive Institute: Selected Locations in South Seattle (June 16-20, 2025)" aria-label="Locator map" id="datawrapper-chart-vDfAZ" src="https://datawrapper.dwcdn.net/vDfAZ/24/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="938" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
