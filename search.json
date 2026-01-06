@@ -522,31 +522,21 @@
   {
     "objectID": "12-umassd-resources.html",
     "href": "12-umassd-resources.html",
-    "title": "13  UMass Dartmouth, SMAST, and Fay Lab Resources",
+    "title": "13  Datawrapper",
     "section": "",
-    "text": "13.1 General information about UMass Dartmouth and SMAST\nThe SMAST directory lists all faculty and staff across both departments (DEOS & DFO). This is not updated frequently but may help you in locating a specific person and their contact information.\nIf you need help with a specific task, there are some staff members that are more appropriate to contact. Please use the link below to locate someone to help you. - [link to latest org chart]\nGeneral list of resources for SMAST staff and students via MyUMassD. This contains program policies, links, and forms for various academic and administrative procedures.",
+    "text": "13.1 Symbol Maps",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>UMass Dartmouth, SMAST, and Fay Lab Resources</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Datawrapper</span>"
     ]
   },
   {
-    "objectID": "12-umassd-resources.html#general-information-about-umass-dartmouth-and-smast",
-    "href": "12-umassd-resources.html#general-information-about-umass-dartmouth-and-smast",
-    "title": "13  UMass Dartmouth, SMAST, and Fay Lab Resources",
+    "objectID": "12-umassd-resources.html#symbol-maps",
+    "href": "12-umassd-resources.html#symbol-maps",
+    "title": "13  Datawrapper",
     "section": "",
-    "text": "13.1.1 University Codes of Conduct\n\nStudent conduct and dispute resolution\nSMAST’s code of conduct and diversity statement.\n\n\n\n13.1.2 For Grad Students\n\nOfficial SMAST webpage for current and incoming students. This has information on orientation materials, forms, scholarships/fellowships/assistantships, and academics.\n\n\n\n13.1.3 For Employees\n\nEmployee resources\nHuman Resources",
+    "text": "13.1.1 Locator Maps\n\n13.1.1.1 Seattle",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>UMass Dartmouth, SMAST, and Fay Lab Resources</span>"
-    ]
-  },
-  {
-    "objectID": "12-umassd-resources.html#fay-lab-resources",
-    "href": "12-umassd-resources.html#fay-lab-resources",
-    "title": "13  UMass Dartmouth, SMAST, and Fay Lab Resources",
-    "section": "13.2 Fay Lab Resources",
-    "text": "13.2 Fay Lab Resources\n\nFay Lab website\nFay Lab Google Drive & Calendar - ask Gavin for a link to access & collaborate!\n\nLab email -&gt; thefaylab@gmail.com\n\nFay Lab GitHub account\n\nLab-chat repository houses an Issues list that retains institutional and Fay Lab knowledge. It’s private so be sure to ask Gavin for access!\n\nOur current team\nLab publications\nProfessional development materials: collection of issues in the lab-chat\nTravel Procedures\n\n\n13.2.1 Weekly Lab Meetings\n\nEvery Monday from 12:30 - 2:00 PM ET\nLab Meeting Schedule\nOn occasion, this time is used for Quantfish woRkshops where lab members or invited guests come to teach the group and larger community a quantative skill (could be an introduction to a new R package, new statistical tool, etc).\n\nThe below are not currently in session, but are examples of regular activities we have run in the past.\n\n\n13.2.2 Shut Up and Write\n\nEvery Thursday from 3 - 4:30 PM EST (besides the 1st Thursday of every month which is reserved for Hacky Hour -&gt; see below!)\nPomodoro-style workflow. Three, 20-minute sessions interspersed by ~5 minute breaks.\n\n\n\n13.2.3 Hacky Hours/Southcoast useR group\n\n1st Thursday of every month\nMixed bag including working through tidy tuesdays, informal feedback presentations, etc.",
-    "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>UMass Dartmouth, SMAST, and Fay Lab Resources</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Datawrapper</span>"
     ]
   }
 ]
