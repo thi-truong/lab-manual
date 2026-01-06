@@ -1,10 +1,12 @@
 # Datawrapper {#umassd-resources}
 
-## Symbol Maps
+## Maps
+
+### Symbol
 
 <div style="min-height:798px" id="datawrapper-vis-PV8QJ"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/PV8QJ/embed.js" charset="utf-8" data-target="#datawrapper-vis-PV8QJ"></script><noscript><img src="https://datawrapper.dwcdn.net/PV8QJ/full.png" alt="Map of the contiguous U.S., Alaska, and Hawaii showing various red circles of varying sizes, overlapping and distributed across most states. Small circles indicate $50,000-$100,000 budget, while the largest circles indicate budget over $3 million. Largest circles occur closest to Berkeley, Irvine, Austin, and New York.  A minor amount of unfilled circles are seen, indicating a number of grants that were not previously mentioned in the 2024 report. " /></noscript></div>
 
-### Locator Maps
+### Locator
 
 #### Seattle
 
