@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome! Example File here
 
 Welcome to our book of magical secrets.
 
